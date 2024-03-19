@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "2fff274f2ce63cb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "132da28dc3ae7322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "828ff599ffdc906d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docudubery/first/Brainstorming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "befe749663a27ac6",
+    "type": "split",
+    "children": [
+      {
+        "id": "26384bd0506ea6ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72d4ea2278a85396",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91fca5d602425966",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9f148ee1b4e3268",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "996303a7613c1372",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cb5272e596ae820",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a1cb39b2287eabc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docudubery/first/Brainstorming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9abf2fc933d5861",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docudubery/first/Brainstorming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f03e87364effb9da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35642fb439b59aee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docudubery/first/Brainstorming.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "828ff599ffdc906d",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "docudubery/first/Brainstorming.md",
+    "docudubery/first",
+    "docudubery"
+  ]
+}

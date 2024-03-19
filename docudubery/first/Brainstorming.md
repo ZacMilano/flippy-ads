@@ -1,0 +1,7 @@
+- DocuDubery has indicated that it should be 1-2 minutes long
+- I think it should be no longer than a minute
+- focus on decision-making stuff
+- As an important and famous youtuber, i get oodles upon oodles of sponsorship opportunities in my email inbox
+- How do I decide which one I will accept, which ad team I work with?
+- By flipping a coin, of course!
+- 
