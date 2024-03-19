@@ -4,4 +4,4 @@
 - As an important and famous youtuber, i get oodles upon oodles of sponsorship opportunities in my email inbox
 - How do I decide which one I will accept, which ad team I work with?
 - By flipping a coin, of course!
-- 
+- show recording of using Flippy to decide between advertisers (always no, lol), decide between video suggestions
