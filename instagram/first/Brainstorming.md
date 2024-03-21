@@ -1,0 +1,5 @@
+- decide between cooking dinner and getting takeout/delivery
+- show chain of decisions made
+	- has potential for storytelling
+- coinfluencers
+	- vloggers who document their days making every decision by coin

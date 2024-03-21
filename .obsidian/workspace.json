@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docudubery/first/Brainstorming.md",
+                "file": "instagram/first/Brainstorming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docudubery/first/Brainstorming.md",
+                "file": "instagram/first/Brainstorming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docudubery/first/Brainstorming.md",
+                "file": "instagram/first/Brainstorming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docudubery/first/Brainstorming.md"
+                "file": "instagram/first/Brainstorming.md"
               }
             }
           }
@@ -146,9 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "828ff599ffdc906d",
+  "active": "72d4ea2278a85396",
   "lastOpenFiles": [
+    "instagram/first",
     "docudubery/first/Brainstorming.md",
+    "instagram/first/Brainstorming.md",
+    "instagram",
     "Untitled.md",
     "docudubery/first",
     "docudubery"
